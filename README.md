@@ -1,7 +1,5 @@
 - Hi there 👋 
 - I’m @AntonioMilton
- 
- -Here are some ideas to get you started:
 
 - 📫 I'm currently looking for work as a Junior Front-end Developer. 
 
